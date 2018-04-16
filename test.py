@@ -16,6 +16,7 @@ def countC(c):
     e = d.dot(c)-1
     return e
 
+
 def findPulse(rgb):
     N = int(rgb.size / 3)
     k = 128
