@@ -6,6 +6,7 @@ import time
 import string
 import random
 
+
 def countC(c):
     a = np.matrix.mean(c,1)
     print(a)
